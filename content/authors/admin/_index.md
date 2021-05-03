@@ -6,7 +6,7 @@ title: Rizwan Hasan
 superuser: true
 
 # Role/position/tagline
-role: "Learn Student Ambassador at [Microsoft](https://microsoft.com) || Undergraduate Student of Computer Science"
+role: "Learn Student Ambassador at Microsoft || Undergraduate Student of Computer Science"
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
       url: https://www.eastdelta.edu.bd/
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Learn Student Ambassador at [Microsoft](https://microsoft.com) || Undergraduate Student of Computer Science"
+bio: "Learn Student Ambassador at Microsoft || Undergraduate Student of Computer Science"
 
 # Interests to show in About widget
 interests:
