@@ -88,9 +88,6 @@ social:
     - icon: dev
       icon_pack: fab
       link: "https://dev.to/rizwan486"
-      display:
-          header: true
-      label: Read my writings on Dev
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "rizwan.hasan486@gmail.com"
