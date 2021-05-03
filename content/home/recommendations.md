@@ -12,7 +12,7 @@ active: true
 # Order that this section appears on the page.
 weight: 64
 
-title: Recommendations
+title: Recommend&shy;ations
 subtitle: ""
 
 content:
