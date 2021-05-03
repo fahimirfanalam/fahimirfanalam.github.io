@@ -41,7 +41,7 @@ links:
       url: "https://youtu.be/VpRBdz2_OIE"
     - icon: external-link-alt
       icon_pack: fas
-      name: Arch-based distributions Offcial List
+      name: Arch-based distributions Official List
       url: "https://wiki.archlinux.org/title/Arch-based_distributions"
 
 # url_code: ""
