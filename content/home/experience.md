@@ -35,6 +35,9 @@ experience:
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i class="fab fa-facebook" style="color: #3b5998"></i>
         &nbsp;[TechLearnersInc](https://facebook.com/TechLearnersInc)
         <br />
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i class="fab fa-linkedin" style="color: #0069bd"></i>
+        &nbsp;&nbsp;[techlearners](https://www.linkedin.com/company/techlearners)
+        <br />
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i class="fab fa-youtube" style="color: #ff0000"></i>
         &nbsp;[TechLearnersInc](https://youtube.com/c/TechLearnersInc)
         <br />
