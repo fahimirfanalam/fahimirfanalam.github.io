@@ -9,8 +9,8 @@ Wish him good luck for his future projects. **”**"
 
 draft: false
 
-# tags:
-#     - python
+tags:
+    - recommendation
 
 date: "2020-12-20"
 

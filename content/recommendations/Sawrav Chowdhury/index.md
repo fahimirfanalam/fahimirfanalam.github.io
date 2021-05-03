@@ -6,8 +6,8 @@ summary: "**CS Graduate || Artificial Intelligence Enthusiast**
 
 draft: false
 
-# tags:
-#     - python
+tags:
+    - recommendations
 
 date: "2019-11-18"
 
