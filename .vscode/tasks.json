@@ -10,13 +10,13 @@
         {
             "label": "Hugo Build",
             "type": "shell",
-            "command": "hugo --gc",
+            "command": "hugo --gc -d docs",
             "problemMatcher": []
         },
         {
             "label": "Hugo Build Minify",
             "type": "shell",
-            "command": "hugo --gc --minify",
+            "command": "hugo --gc --minify -d docs",
             "problemMatcher": []
         },
     ]
