@@ -1,0 +1,23 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Hugo Dev Server",
+            "type": "shell",
+            "command": "hugo server --disableFastRender",
+            "problemMatcher": []
+        },
+        {
+            "label": "Hugo Build",
+            "type": "shell",
+            "command": "hugo build --gc",
+            "problemMatcher": []
+        },
+        {
+            "label": "Hugo Build Minify",
+            "type": "shell",
+            "command": "hugo build --gc --minify",
+            "problemMatcher": []
+        },
+    ]
+}

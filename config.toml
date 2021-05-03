@@ -1,0 +1,5 @@
+baseURL = "https://rizwan.studio/"
+languageCode = "en-us"
+title = "Rizwan Hasan"
+theme = "academic"
+publishDir = "public"
