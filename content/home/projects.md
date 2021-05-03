@@ -31,6 +31,8 @@ content:
           tag: python
         - name: Node.js
           tag: nodejs
+        - name: Java
+          tag: java
         - name: WebApp
           tag: webapp
         - name: Desktop
