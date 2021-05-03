@@ -170,7 +170,7 @@ data.head()
 &lt;p>Academic supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> chart format.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-216453798" class="chart">&lt;/div>
+&lt;div id="chart-285736941" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -179,7 +179,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-216453798', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-285736941', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
@@ -399,7 +399,7 @@ You found me!
 &lt;i class="fas fa-terminal pr-1 fa-fw">&lt;/i> Terminal&lt;br>
 &lt;i class="fab fa-python pr-1 fa-fw">&lt;/i> Python&lt;br>
 &lt;i class="fab fa-r-project pr-1 fa-fw">&lt;/i> R&lt;/p>
-&lt;h3 id="did-you-find-this-page-helpful-consider-sharing-it-">Did you find this page helpful? Consider sharing it 🙌&lt;/h3></description></item><item><title>Display Jupyter Notebooks with Academic</title><link>https://rizwan.studio/post/jupyter/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://rizwan.studio/post/jupyter/</guid><description>&lt;pre>&lt;code class="language-python">from IPython.core.display import Image
+&lt;h3 id="did-you-find-this-page-helpful-consider-sharing-it-">Did you find this page helpful? Consider sharing it 🙌&lt;/h3></description></item><item><title>Java Socket Chat (Desktop Application)</title><link>https://rizwan.studio/project/java-socket-chat-desktop-application/</link><pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate><guid>https://rizwan.studio/project/java-socket-chat-desktop-application/</guid><description/></item><item><title>GPA Calculator JavaFX (Desktop Application)</title><link>https://rizwan.studio/project/gpa-calculator-javafx-desktop-application/</link><pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate><guid>https://rizwan.studio/project/gpa-calculator-javafx-desktop-application/</guid><description/></item><item><title>Display Jupyter Notebooks with Academic</title><link>https://rizwan.studio/post/jupyter/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://rizwan.studio/post/jupyter/</guid><description>&lt;pre>&lt;code class="language-python">from IPython.core.display import Image
 Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
 &lt;/code>&lt;/pre>
 &lt;p>&lt;img src="./index_1_0.png" alt="png">&lt;/p>
@@ -548,4 +548,4 @@ color: navy;
 &lt;hr>
 &lt;h1 id="questions">Questions?&lt;/h1>
 &lt;p>&lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/discussions" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>Free Hash Checker (Desktop Application)</title><link>https://rizwan.studio/project/free-hash-checker-desktop-application/</link><pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate><guid>https://rizwan.studio/project/free-hash-checker-desktop-application/</guid><description/></item><item><title>MagpieOS (Linux Distribution)</title><link>https://rizwan.studio/featured-works/magpieos-linux-distribution/</link><pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate><guid>https://rizwan.studio/featured-works/magpieos-linux-distribution/</guid><description/></item><item><title>Linux From Scratch LiveCD</title><link>https://rizwan.studio/featured-works/linux-from-scratch-livecd-image/</link><pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate><guid>https://rizwan.studio/featured-works/linux-from-scratch-livecd-image/</guid><description/></item><item><title/><link>https://rizwan.studio/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rizwan.studio/admin/config.yml</guid><description/></item></channel></rss>
+&lt;p>&lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>GPA Calculator Python (Desktop Application)</title><link>https://rizwan.studio/project/gpa-calculator-python-desktop-application/</link><pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate><guid>https://rizwan.studio/project/gpa-calculator-python-desktop-application/</guid><description/></item><item><title>Free Hash Checker (Desktop Application)</title><link>https://rizwan.studio/project/free-hash-checker-desktop-application/</link><pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate><guid>https://rizwan.studio/project/free-hash-checker-desktop-application/</guid><description/></item><item><title>MagpieOS (Linux Distribution)</title><link>https://rizwan.studio/featured-works/magpieos-linux-distribution/</link><pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate><guid>https://rizwan.studio/featured-works/magpieos-linux-distribution/</guid><description/></item><item><title>Linux From Scratch LiveCD</title><link>https://rizwan.studio/featured-works/linux-from-scratch-livecd-image/</link><pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate><guid>https://rizwan.studio/featured-works/linux-from-scratch-livecd-image/</guid><description/></item><item><title/><link>https://rizwan.studio/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rizwan.studio/admin/config.yml</guid><description/></item></channel></rss>
