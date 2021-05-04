@@ -30,7 +30,7 @@ experience:
       date_start: "2019-09-01"
       date_end: false
       description: |2-
-        An attempt to share knowledge about technology and make a contribution for the tech community.
+        TechLearners is a community of tech enthusiastic curious people who loves learn new technologies and share the learnings with all. We have a YouTube channel by this name where we share tutorial videos of different technologies and related things. Our motive is to share the knowledge of science & technology to all and making an impact through technological inventions.
         <br />
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i class="fab fa-facebook" style="color: #3b5998"></i>
         &nbsp;[TechLearnersInc](https://facebook.com/TechLearnersInc)

@@ -31,24 +31,6 @@ experience:
       date_end: false
       description: false
 
-    - title: Microsoft Learn Student Ambassadors - Alpha 2
-      company: Microsoft
-      company_url: "https://www.microsoft.com/"
-      company_logo: microsoft
-      location: Bangladesh
-      date_start: "2020-04-30"
-      date_end: "2020-05-29"
-      description: false
-
-    - title: Microsoft Learn Student Ambassadors - Alpha 1
-      company: Microsoft
-      company_url: "https://www.microsoft.com/"
-      company_logo: microsoft
-      location: Bangladesh
-      date_start: "2020-04-01"
-      date_end: "2020-04-29"
-      description:
-
     # - title: CEO
     #   company: GenCoin
     #   company_url: ""
