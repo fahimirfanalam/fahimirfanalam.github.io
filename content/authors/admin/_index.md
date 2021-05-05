@@ -89,6 +89,10 @@ social:
       icon_pack: fab
       link: "https://dev.to/rizwan486"
 
+    - icon: kaggle
+      icon_pack: fab
+      link: "https://www.kaggle.com/rizwan486"
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "rizwan.hasan486@gmail.com"
 
