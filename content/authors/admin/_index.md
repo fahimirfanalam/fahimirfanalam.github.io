@@ -73,6 +73,10 @@ social:
       icon_pack: fab
       link: https://orcid.org/0000-0002-6766-0295
 
+    - icon: researchgate
+      icon_pack: fab
+      link: https://www.researchgate.net/profile/Rizwan-Hasan
+
     - icon: telegram
       icon_pack: fab
       link: https://t.me/rizwan486
