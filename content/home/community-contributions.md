@@ -56,7 +56,7 @@ experience:
       location: false
       date_start: "2021-05-11"
       date_end: false
-      description: "Read my articles here: [https:/blog.rizwan.studio/](https:/blog.rizwan.studio/)"
+      description: "Read my articles here: [https://blog.rizwan.studio/](https://blog.rizwan.studio/)"
 
     # - title: CEO
     #   company: GenCoin
