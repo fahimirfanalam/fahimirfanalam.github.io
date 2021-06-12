@@ -104,6 +104,6 @@ email: "rizwan.hasan486@gmail.com"
 highlight_name: true
 ---
 
-Co-Founder of [TechLearneres](https://github.com/TechLearnersInc). Skilled in Python Programmer and Linux Distribution Development. Strong media and communication professional with a Bachelor's Degree focused on Computer Science and Engineering from [East Delta University](https://www.eastdelta.edu.bd/).
+Co-Founder of [TechLearners](https://github.com/TechLearnersInc). Skilled in Python Programmer and Linux Distribution Development. Strong media and communication professional with a Bachelor's Degree focused on Computer Science and Engineering from [East Delta University](https://www.eastdelta.edu.bd/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
