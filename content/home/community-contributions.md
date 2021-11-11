@@ -49,15 +49,6 @@ experience:
       date_end: false
       description: "Read my articles here: [https://community.codenewbie.org/rizwan486](https://community.codenewbie.org/rizwan486)"
 
-    - title: Personal Blog
-      company: ""
-      company_url: "https:/blog.rizwan.studio/"
-      company_logo: blog
-      location: false
-      date_start: "2021-05-11"
-      date_end: false
-      description: "Read my articles here: [https://blog.rizwan.studio/](https://blog.rizwan.studio/)"
-
     # - title: CEO
     #   company: GenCoin
     #   company_url: ""
