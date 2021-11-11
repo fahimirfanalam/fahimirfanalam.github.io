@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rizwan Hasan</title><link>https://rizwan.studio/</link><atom:link href="https://rizwan.studio/index.xml" rel="self" type="application/rss+xml"/><description>Rizwan Hasan</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All rights reserved © 2021 Rizwan Hasan</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate><image><url>https://rizwan.studio/media/icon_hu6abcf2c7dc9715be1e86c69d8ecba7d0_202754_512x512_fill_lanczos_center_2.png</url><title>Rizwan Hasan</title><link>https://rizwan.studio/</link></image><item><title>Python basics</title><link>https://rizwan.studio/courses/example/python/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://rizwan.studio/courses/example/python/</guid><description>&lt;p>Build a foundation in Python.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rizwan Hasan</title><link>https://rizwan.studio/</link><atom:link href="https://rizwan.studio/index.xml" rel="self" type="application/rss+xml"/><description>Rizwan Hasan</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All rights reserved © 2021 Rizwan Hasan</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate><image><url>https://rizwan.studio/media/icon_hu6abcf2c7dc9715be1e86c69d8ecba7d0_202754_512x512_fill_lanczos_center_3.png</url><title>Rizwan Hasan</title><link>https://rizwan.studio/</link></image><item><title>Python basics</title><link>https://rizwan.studio/courses/example/python/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://rizwan.studio/courses/example/python/</guid><description>&lt;p>Build a foundation in Python.&lt;/p>
 &lt;p>
 &lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 1-2 hours per week, for 8 weeks&lt;/p>
 &lt;h2 id="learn">Learn&lt;/h2>
@@ -170,7 +170,7 @@ data.head()
 &lt;p>Academic supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> chart format.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-413927865" class="chart">&lt;/div>
+&lt;div id="chart-351869427" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -179,7 +179,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-413927865', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-351869427', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
@@ -433,7 +433,7 @@ date: 2019-09-01
 &lt;pre>&lt;code class="language-bash">jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
 &lt;/code>&lt;/pre>
 &lt;h2 id="example">Example&lt;/h2>
-&lt;p>This post was created with Jupyter. The orginal files can be found at &lt;a href="https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter">https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a>&lt;/p></description></item><item><title>Slides</title><link>https://rizwan.studio/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://rizwan.studio/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
+&lt;p>This post was created with Jupyter. The orginal files can be found at &lt;a href="https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter" target="_blank" rel="noopener">https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a>&lt;/p></description></item><item><title>Slides</title><link>https://rizwan.studio/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://rizwan.studio/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
 &lt;p>&lt;a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy&lt;/a> | &lt;a href="https://owchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>
 &lt;hr>
 &lt;h2 id="features">Features&lt;/h2>
