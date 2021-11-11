@@ -6,7 +6,7 @@ title: Rizwan Hasan
 superuser: true
 
 # Role/position/tagline
-role: "Learn Student Ambassador at Microsoft || Undergraduate Student of Computer Science"
+role: "Microsoft Student Ambassadors || Final Semester Undergraduate Student of Computer Science & Engineering"
 
 # Organizations/Affiliations to show in About widget
 organizations:
