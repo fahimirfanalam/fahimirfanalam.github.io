@@ -19,7 +19,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 email: rizwan.hasan486@gmail.com
-# phone: ''
+phone: ''
 
 address:
   street: 'Agrabad'
@@ -33,13 +33,13 @@ coordinates:
   latitude: '22.3237417'
   longitude: '91.8091193'
 
-# directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+directions: ''
 
-# office_hours:
+office_hours: ''
 #   - 'Monday 10:00 to 13:00'
 #   - 'Wednesday 09:00 to 10:00'
 
-# appointment_url: ''
+appointment_url: ''
 
 contact_links:
   - icon: linkedin
