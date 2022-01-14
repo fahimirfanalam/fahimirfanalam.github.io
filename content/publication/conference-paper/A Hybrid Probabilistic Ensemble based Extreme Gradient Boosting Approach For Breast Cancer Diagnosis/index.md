@@ -1,8 +1,8 @@
 ---
 title: "A Hybrid Probabilistic Ensemble based Extreme Gradient Boosting Approach For Breast Cancer Diagnosis"
 authors:
-    - admin
     - Muhammad Sakib Khan Inan
+    - admin
     - Fahim Irfan Alam
 date: "2021-03-15"
 doi: "10.1109/CCWC51732.2021.9376007"

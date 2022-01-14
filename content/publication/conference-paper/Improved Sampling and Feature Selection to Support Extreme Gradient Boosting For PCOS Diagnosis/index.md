@@ -1,8 +1,8 @@
 ---
 title: "Improved Sampling and Feature Selection to Support Extreme Gradient Boosting For PCOS Diagnosis"
 authors:
-    - admin
     - Muhammad Sakib Khan Inan
+    - admin
     - Fahim Irfan Alam
     - Rubaiath E Ulfath
     - Fateha Khanam Bappee
