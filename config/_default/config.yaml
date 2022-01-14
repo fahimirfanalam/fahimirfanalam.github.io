@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Rizwan Hasan # Website name
-baseurl: 'https://rizwan.studio/' # Website URL
-copyright: 'All rights reserved © 2021 Rizwan Hasan' # Footer text, e.g. '© {year} Me'
+baseurl: 'https://rizwan-hasan.github.io/' # Website URL
+copyright: 'All rights reserved © 2022 Rizwan Hasan' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
