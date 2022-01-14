@@ -4,13 +4,23 @@
         {
             "label": "Hugo Dev Server",
             "type": "shell",
-            "command": "hugo server --disableFastRender",
+            "command": "${workspaceFolder}/.hugo-bin/hugo",
+            "args": [
+                "server",
+                "--disableFastRender",
+            ],
             "problemMatcher": []
         },
         {
             "label": "Hugo Build",
             "type": "shell",
-            "command": "hugo --gc --minify -d docs",
+            "command": "${workspaceFolder}/.hugo-bin/hugo",
+            "args": [
+                "--gc",
+                "--minify",
+                "-d",
+                "docs",
+            ],
             "problemMatcher": []
         },
     ]
