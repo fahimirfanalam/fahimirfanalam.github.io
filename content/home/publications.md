@@ -7,12 +7,12 @@ widget: pages
 headless: true
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
+title: All Publications
 subtitle: ""
 
 content:
