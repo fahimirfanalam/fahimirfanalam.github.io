@@ -1,0 +1,21 @@
+version: "3.3"
+
+services:
+
+    deploy:
+        image: klakegg/hugo:0.87.0-ext-ubuntu
+        container_name: rizwan-portfolio-deploy
+        restart: "no"
+        command: --gc --minify -d docs
+        volumes:
+            - ".:/src"
+
+    liveserver:
+        image: klakegg/hugo:0.87.0-ext-ubuntu
+        container_name: rizwan-portfolio-liveserver
+        restart: "no"
+        command: server --disableFastRender
+        volumes:
+            - ".:/src"
+        ports:
+            - "1313:1313"
