@@ -8,8 +8,6 @@
             "args": [
                 "up",
                 "liveserver",
-                "--exit-code-from",
-                "liveserver",
             ],
             "problemMatcher": []
         },
@@ -19,8 +17,6 @@
             "command": "docker-compose",
             "args": [
                 "up",
-                "deploy",
-                "--exit-code-from",
                 "deploy",
             ],
             "problemMatcher": []
