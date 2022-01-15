@@ -4,22 +4,24 @@
         {
             "label": "Hugo Dev Server",
             "type": "shell",
-            "command": "${workspaceFolder}/.hugo-bin/hugo",
+            "command": "docker-compose",
             "args": [
-                "server",
-                "--disableFastRender",
+                "up",
+                "liveserver",
+                "--exit-code-from",
+                "liveserver",
             ],
             "problemMatcher": []
         },
         {
             "label": "Hugo Build",
             "type": "shell",
-            "command": "${workspaceFolder}/.hugo-bin/hugo",
+            "command": "docker-compose",
             "args": [
-                "--gc",
-                "--minify",
-                "-d",
-                "docs",
+                "up",
+                "deploy",
+                "--exit-code-from",
+                "deploy",
             ],
             "problemMatcher": []
         },
