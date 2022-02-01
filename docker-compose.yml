@@ -14,7 +14,7 @@ services:
         image: klakegg/hugo:0.87.0-ext-ubuntu
         container_name: rizwan-portfolio-liveserver
         restart: "no"
-        command: server --disableFastRender
+        command: server --disableFastRender --i18n-warnings
         volumes:
             - ".:/src"
         ports:
