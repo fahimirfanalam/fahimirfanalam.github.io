@@ -106,4 +106,4 @@ highlight_name: true
 
 Co-Founder of [TechLearners](https://github.com/TechLearnersInc). Skilled in Python Programmer and Linux Distribution Development. Strong media and communication professional with a Bachelor's Degree focused on Computer Science and Engineering from [East Delta University](https://www.eastdelta.edu.bd/).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Curriculum Vitae (CV) - Rizwan Hasan.pdf" "newtab" >}}Curriculum Vitae (CV){{< /staticref >}}.
