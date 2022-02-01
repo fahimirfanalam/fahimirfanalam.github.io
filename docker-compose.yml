@@ -9,6 +9,7 @@ services:
         command: --gc --minify -d docs
         volumes:
             - ".:/src"
+            - "./tmp:/tmp"
 
     liveserver:
         image: klakegg/hugo:0.87.0-ext-ubuntu
@@ -17,5 +18,6 @@ services:
         command: server --disableFastRender --i18n-warnings
         volumes:
             - ".:/src"
+            - "./tmp:/tmp"
         ports:
             - "1313:1313"
