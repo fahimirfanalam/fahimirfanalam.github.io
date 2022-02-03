@@ -6,12 +6,12 @@ title: Rizwan Hasan
 superuser: true
 
 # Role/position/tagline
-role: "Microsoft Student Ambassadors || Final Semester Undergraduate Student of Computer Science & Engineering"
+role: "Microsoft Learn Student Ambassadors || Fulltime Software Engineer"
 
 # Organizations/Affiliations to show in About widget
-organizations:
-    - name: East Delta University
-      url: https://www.eastdelta.edu.bd/
+# organizations:
+#     - name: East Delta University
+#       url: https://www.eastdelta.edu.bd/
 
 # Short bio (displayed in user profile at end of posts)
 bio: "Learn Student Ambassador at Microsoft || Undergraduate Student of Computer Science"
