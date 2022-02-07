@@ -3,7 +3,7 @@ version: "3.3"
 services:
 
     deploy:
-        image: klakegg/hugo:0.87.0-ext-ubuntu
+        image: klakegg/hugo:0.87.0-ext-alpine
         container_name: rizwan-portfolio-deploy
         restart: "no"
         command: --gc --minify -d docs
@@ -12,7 +12,7 @@ services:
             - "./tmp:/tmp"
 
     liveserver:
-        image: klakegg/hugo:0.87.0-ext-ubuntu
+        image: klakegg/hugo:0.87.0-ext-alpine
         container_name: rizwan-portfolio-liveserver
         restart: "no"
         command: server --disableFastRender --i18n-warnings
