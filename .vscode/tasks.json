@@ -2,7 +2,7 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "Hugo Dev Server",
+            "label": "Live preview",
             "type": "shell",
             "command": "docker-compose",
             "args": [
@@ -13,7 +13,7 @@
             "problemMatcher": []
         },
         {
-            "label": "Hugo Build",
+            "label": "Deploy",
             "type": "shell",
             "command": "docker-compose",
             "args": [
