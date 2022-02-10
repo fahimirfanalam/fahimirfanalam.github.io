@@ -6,15 +6,17 @@ title: Rizwan Hasan
 superuser: true
 
 # Role/position/tagline
-role: "Microsoft Learn Student Ambassadors | Fulltime Software Engineer"
+role: "Software Engineer (Full-time) at [ClearML](https://clear.ml/) | Microsoft Learn Student Ambassadors at [Microsoft](https://www.microsoft.com/)"
 
 # Organizations/Affiliations to show in About widget
-# organizations:
-#     - name: East Delta University
-#       url: https://www.eastdelta.edu.bd/
+organizations:
+    - name: ClearML
+      url: https://clear.ml/
+    - name: Microsoft
+      url: https://www.microsoft.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Learn Student Ambassador at Microsoft | Undergraduate Student of Computer Science"
+bio: "Software Engineer (Full-time) at [ClearML](https://clear.ml/) | Microsoft Learn Student Ambassadors at [Microsoft](https://www.microsoft.com/)"
 
 # Interests to show in About widget
 interests:
@@ -104,6 +106,6 @@ email: "rizwan.hasan486@gmail.com"
 highlight_name: true
 ---
 
-Co-Founder of [TechLearners](https://github.com/TechLearnersInc). Skilled in Python Programmer and Linux Distribution Development. Strong media and communication professional with a Bachelor's Degree focused on Computer Science and Engineering from [East Delta University](https://www.eastdelta.edu.bd/).
+Full-time Software Engineer at [ClearML](https://clear.ml/), Co-Founder of [TechLearners](https://github.com/TechLearnersInc). Skilled in Python Programmer and Linux Distribution Development. Strong media and communication professional with a Bachelor's Degree focused on Computer Science and Engineering from [East Delta University](https://www.eastdelta.edu.bd/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Curriculum Vitae (CV) - Rizwan Hasan.pdf" "newtab" >}}Curriculum Vitae (CV){{< /staticref >}}.
