@@ -41,14 +41,28 @@ experience:
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i class="fab fa-youtube" style="color: #ff0000"></i>
         &nbsp;[TechLearnersInc](https://youtube.com/c/TechLearnersInc)
         <br />
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i class="fab fa-medium" style="color: #333"></i>
-        &nbsp;&nbsp;[tech-learners](https://medium.com/tech-learners)
-        <br />
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i class="fab fa-dev" style="color: #333"></i>
-        &nbsp;&nbsp;[techlearners](https://dev.to/techlearners)
-        <br />
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i class="fab fa-github" style="color: #333"></i>
         &nbsp;[TechLearnersInc](https://github.com/TechLearnersInc)
+
+    - title: Software Engineer (Full-time)
+      company: ClearML
+      company_url: false
+      company_logo: clearml
+      location: false
+      date_start: "2022-02-01"
+      date_end: false
+      description: |2-
+        [Allegro AI](https://allegro.ai/) is the company behind [ClearML](https://clear.ml/), the leading open source MLOps stack. ClearML provides a comprehensive stack to support the full lifecycle of ML/DL workloads and is used by thousands of organizations globally.
+        <br />
+        <p>
+            <a href="https://allegro.ai/">
+                <img style="float: left;" src="https://media-exp1.licdn.com/dms/image/sync/C5627AQFnEG2X3ixKmA/articleshare-shrink_160/0/1644523704336?e=1644613200&v=beta&t=2JhcMnTi3VBFEOCf-CwthHFxLseTxIugC7ztbiJf7Bs"/>
+            </a>
+            <p>
+                <b>ML / DL Open Source Platform – Allegro AI Deep Learning & Machine Learning End to End</b>
+                <p>End-to-end ML / DL product life-cycle management open source solution. Deep learning & machine learning platform tailored for unstructured data.</p>
+            </p>
+        </p>
 
 design:
     columns: "2"
