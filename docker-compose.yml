@@ -4,7 +4,7 @@ services:
 
     deploy:
         image: klakegg/hugo:0.87.0-ext-alpine
-        container_name: rizwan-portfolio-deploy
+        container_name: fahim-irfan-portfolio-deploy
         restart: "no"
         command: --gc --minify -d docs
         volumes:
@@ -13,7 +13,7 @@ services:
 
     liveserver:
         image: klakegg/hugo:0.87.0-ext-alpine
-        container_name: rizwan-portfolio-liveserver
+        container_name: fahim-irfan-portfolio-liveserver
         restart: "no"
         command: server --disableFastRender --i18n-warnings
         volumes:
