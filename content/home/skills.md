@@ -4,7 +4,7 @@
 widget: featurette
 
 # Activate this widget? true/"Small Description"
-active: true
+active: false
 
 # This file represents a page section.
 headless: true

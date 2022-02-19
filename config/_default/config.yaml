@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Rizwan Hasan # Website name
+title: Fahim Irfan Alam # Website name
 baseurl: 'https://rizwan-hasan.github.io/' # Website URL
-copyright: 'All rights reserved © 2022 Rizwan Hasan' # Footer text, e.g. '© {year} Me'
+copyright: 'All rights reserved © 2022 Fahim Irfan Alam' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

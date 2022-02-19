@@ -1,38 +1,45 @@
 ---
 # Display name
-title: Rizwan Hasan
+title: Fahim Irfan Alam
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: "Software Engineer (Full-time) at [ClearML](https://clear.ml/) | Microsoft Learn Student Ambassadors at [Microsoft](https://www.microsoft.com/)"
+role: "Associate Professor at [University of Chittagong](https://cu.ac.bd/) | Artificial Intelligence & Computer Vision Scientist"
 
 # Organizations/Affiliations to show in About widget
-organizations:
-    - name: ClearML
-      url: https://clear.ml/
-    - name: Microsoft
-      url: https://www.microsoft.com/
+# organizations:
+#     - name: University of Chittagong
+#       url: https://cu.ac.bd/
 
 # Short bio (displayed in user profile at end of posts)
 bio: "Software Engineer (Full-time) at [ClearML](https://clear.ml/) | Microsoft Learn Student Ambassadors at [Microsoft](https://www.microsoft.com/)"
 
 # Interests to show in About widget
 interests:
-    - Software Development
-    - Cloud Technology
+    - Deep Learning
+    - Computer Vision
+    - Computer Networks
     - Machine Learning
-    - Back-end Development
-    - Technical Writing
-    - Philosophy
+    - Image Processing
+    - Pattern Recognition
+    - Artificial Intelligence
 
 # Education to show in About widget
 education:
     courses:
-        - course: BSc in Computer Science
-          institution: East Delta University
-          year: false
+        - course: Ph.D. in Computer Science
+          institution: Griffith University
+          year: 2019
+
+        - course: M.Sc. in Computer Science
+          institution: St. Francis Xavier University
+          year: 2011
+
+        - course: B.Sc. in Computer Science
+          institution: Chittagong University
+          year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -106,6 +113,6 @@ email: "rizwan.hasan486@gmail.com"
 highlight_name: true
 ---
 
-Full-time Software Engineer at [ClearML](https://clear.ml/), Co-Founder of [TechLearners](https://github.com/TechLearnersInc). Skilled in Python Programmer and Linux Distribution Development. Strong media and communication professional with a Bachelor's Degree focused on Computer Science and Engineering from [East Delta University](https://www.eastdelta.edu.bd/).
+I've had a serious interest in Computer Vision and Machine Learning research since 2009, and I've been actively working in these fields  since then. I am a proud PhD graduate of Griffith University in Australia, where I achieved several noteworthy results in hyperspectral image processing, notably in the field of remote sensing. To continue my PhD research, I'm now looking for innovative ideas for solving more significant concerns in the Hyperspectral Image community. Other related topics in Computer Vision, such as medical image processing, have recently piqued my attention to contribute to the biomedical community.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Curriculum Vitae (CV) - Rizwan Hasan.pdf" "newtab" >}}Curriculum Vitae (CV){{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Curriculum Vitae (CV) - Fahim Irfan Alam.pdf" "newtab" >}}Curriculum Vitae (CV){{< /staticref >}}.

@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Experience
-subtitle:
+subtitle: Academic and Professional Experience
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -22,37 +22,47 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-    - title: Co-Founder & Editor
-      company: TechLearners Inc.
-      company_url: false
+    - title: Associate Professor
+      company: University of Chittagong
+      company_url: https://cu.ac.bd/
       company_logo: techlearners
-      location: false
-      date_start: "2019-09-01"
+      location: Bangladesh
+      date_start: "2008-02-01"
       date_end: false
       description: |2-
-        TechLearners is a community of tech enthusiastic curious people who loves learn new technologies and share the learnings with all. We have a YouTube channel by this name where we share tutorial videos of different technologies and related things. Our motive is to share the knowledge of science & technology to all and making an impact through technological inventions.
-        <br />
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i class="fab fa-facebook" style="color: #3b5998"></i>
-        &nbsp;[TechLearnersInc](https://facebook.com/TechLearnersInc)
-        <br />
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i class="fab fa-linkedin" style="color: #0069bd"></i>
-        &nbsp;&nbsp;[techlearners](https://www.linkedin.com/company/techlearners)
-        <br />
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i class="fab fa-youtube" style="color: #ff0000"></i>
-        &nbsp;[TechLearnersInc](https://youtube.com/c/TechLearnersInc)
-        <br />
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i class="fab fa-github" style="color: #333"></i>
-        &nbsp;[TechLearnersInc](https://github.com/TechLearnersInc)
+        - Taught several core courses of Computer Science, such as Programming with C/C++ and Java, Neural Networks /Deep Learning, Data Communication.
+        - Responsible for conducting lectures, examinations, and grading.
+        - Supervised undergraduate students in Software Development projects which are now fully functional and in for use by several departments at the University.
 
-    - title: Software Engineer (Full-time)
-      company: ClearML
-      company_url: false
-      company_logo: clearml
-      location: false
-      date_start: "2022-02-01"
-      date_end: false
+    - title: Adjunct Faculty
+      company: Asian University for Women
+      company_url: https://asian-university.org/
+      company_logo: techlearners
+      location: Bangladesh
+      date_start: "2019-09-01"
+      date_end: "2019-12-01"
       description: |2-
-        [Allegro AI](https://allegro.ai/) is the company behind [ClearML](https://clear.ml/), the leading open source MLOps stack. ClearML provides a comprehensive stack to support the full lifecycle of ML/DL workloads and is used by thousands of organizations globally.
+        - Taught Harvard University’s reputed course CS50 in AUW.
+
+    - title: Adjunct Faculty
+      company: East Delta University
+      company_url: https://www.eastdelta.edu.bd/
+      company_logo: techlearners
+      location: Bangladesh
+      date_start: "2020-01-01"
+      date_end: "2021-12-01"
+      description: |2-
+        - Taught Neural Network & Fuzzy Logic/Deep Learning, Pattern Recognition/Machine Learning and Operating Systems. (Concerned lab sessions were included.)
+
+    - title: Adjunct Faculty
+      company: BGC Trust University
+      company_url: https://www.bgctub-edu.net/
+      company_logo: techlearners
+      location: Bangladesh
+      date_start: "2020-01-01"
+      date_end: "2020-12-01"
+      description: |2-
+        - Taught Neural Network & Fuzzy Logic/Deep Learning, Pattern Recognition/Machine Learning and Operating Systems. (Concerned lab sessions were included.)
 
 design:
     columns: "2"

@@ -7,7 +7,7 @@ widget: accomplishments
 headless: true
 
 # Activate this widget? true/false
-active: true
+active: false
 
 # Order that this section appears on the page.
 weight: 50
@@ -33,24 +33,6 @@ item:
       organization: HackerRank
       organization_url: https://www.hackerrank.com/
       title: "Problem Solving (Basic)"
-      url: false
-
-    - certificate_url: https://www.hackerrank.com/certificates/369899aa3ce7
-      date_start: "2020-06-13"
-      date_end: false
-      description: "Covers topics like Scalar Types, Operators and Control Flow, Strings, Collections and Iteration, Modularity, Objects and Types and Classes"
-      organization: HackerRank
-      organization_url: https://www.hackerrank.com/
-      title: "Python (Basic)"
-      url: false
-
-    - certificate_url: https://www.hackerrank.com/certificates/d09f4e76a159
-      date_start: "2020-09-11"
-      date_end: false
-      description: "Covers topics like Closures and Decorators, using magic methods in Python, Collections, Exceptions, Errors, and using Context Managers"
-      organization: HackerRank
-      organization_url: https://www.hackerrank.com/
-      title: "Python (Intermediate)"
       url: false
 
 design:

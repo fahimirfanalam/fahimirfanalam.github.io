@@ -24,21 +24,11 @@ content:
     # To show all items, set `tag` to "*".
     # To filter by a specific tag, set `tag` to an existing tag name.
     # To remove the toolbar, delete the entire `filter_button` block.
-    filter_button:
-        - name: All
-          tag: "*"
-        - name: Python
-          tag: python
-        - name: Node.js
-          tag: nodejs
-        - name: Java
-          tag: java
-        - name: WebApp
-          tag: webapp
-        - name: Desktop
-          tag: desktop
-        - name: Android
-          tag: android
+    filter_button: false
+        # - name: All
+        #   tag: "*"
+        # - name: Python
+        #   tag: python
 
 design:
     # Choose how many columns the section has. Valid values: '1' or '2'.
