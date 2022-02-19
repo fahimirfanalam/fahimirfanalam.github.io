@@ -28,7 +28,7 @@ summary: Breast cancer has been identified as one of the most common invasive ca
 tags:
     - IEEE
 
-featured: true
+featured: false
 
 # links:
 #     - name: Custom Link
