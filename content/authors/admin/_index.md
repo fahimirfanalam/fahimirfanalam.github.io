@@ -6,7 +6,7 @@ title: Fahim Irfan Alam
 superuser: true
 
 # Role/position/tagline
-role: "Associate Professor at [University of Chittagong](https://cu.ac.bd/) | Artificial Intelligence & Computer Vision Scientist"
+role: "Lives in Sydney, Australia<br /><br />Associate Professor at [University of Chittagong](https://cu.ac.bd/) | Artificial Intelligence & Computer Vision Scientist"
 
 # Organizations/Affiliations to show in About widget
 # organizations:
@@ -53,12 +53,12 @@ social:
           header: true
       label: Contact me through email
 
-    - icon: twitter
-      icon_pack: fab
-      link: https://twitter.com/Linux_Saikat
-      display:
-          header: true
-      label: Follow me on twitter
+    # - icon: twitter
+    #   icon_pack: fab
+    #   link: https://twitter.com/Linux_Saikat
+    #   display:
+    #       header: true
+    #   label: Follow me on twitter
 
     - icon: graduation-cap
       icon_pack: fas
@@ -78,33 +78,13 @@ social:
           header: true
       label: Connect me on Linkedin
 
-    - icon: orcid
-      icon_pack: fab
-      link: https://orcid.org/0000-0002-6766-0295
+    # - icon: orcid
+    #   icon_pack: fab
+    #   link: https://orcid.org/0000-0002-6766-0295
 
-    - icon: researchgate
-      icon_pack: fab
-      link: https://www.researchgate.net/profile/Rizwan-Hasan
-
-    - icon: telegram
-      icon_pack: fab
-      link: https://t.me/rizwan486
-
-    - icon: hackerrank
-      icon_pack: fab
-      link: https://www.hackerrank.com/Rizwan486
-
-    - icon: medium
-      icon_pack: fab
-      link: "https://medium.com/@rizwan486"
-
-    - icon: dev
-      icon_pack: fab
-      link: "https://dev.to/rizwan486"
-
-    - icon: kaggle
-      icon_pack: fab
-      link: "https://www.kaggle.com/rizwan486"
+    # - icon: researchgate
+    #   icon_pack: fab
+    #   link: https://www.researchgate.net/profile/Rizwan-Hasan
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "rizwan.hasan486@gmail.com"
