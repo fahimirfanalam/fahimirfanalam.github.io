@@ -25,7 +25,7 @@ experience:
     - title: Associate Professor
       company: University of Chittagong
       company_url: https://cu.ac.bd/
-      company_logo: techlearners
+      company_logo: ctg_university
       location: Bangladesh
       date_start: "2008-02-01"
       date_end: false
@@ -37,7 +37,7 @@ experience:
     - title: Adjunct Faculty
       company: Asian University for Women
       company_url: https://asian-university.org/
-      company_logo: techlearners
+      company_logo: asian-women-university
       location: Bangladesh
       date_start: "2019-09-01"
       date_end: "2019-12-01"
@@ -47,7 +47,7 @@ experience:
     - title: Adjunct Faculty
       company: East Delta University
       company_url: https://www.eastdelta.edu.bd/
-      company_logo: techlearners
+      company_logo: east-delta
       location: Bangladesh
       date_start: "2020-01-01"
       date_end: "2021-12-01"
@@ -57,7 +57,7 @@ experience:
     - title: Adjunct Faculty
       company: BGC Trust University
       company_url: https://www.bgctub-edu.net/
-      company_logo: techlearners
+      company_logo: bgc-trust
       location: Bangladesh
       date_start: "2020-01-01"
       date_end: "2020-12-01"

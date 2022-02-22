@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Activate this widget? true/"Small Description"
-active: true
+active: false
 
 # Order that this section appears on the page.
 weight: 64
