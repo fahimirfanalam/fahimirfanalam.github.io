@@ -2,7 +2,7 @@
 title: "A robust approach to the recognition of text based Bangla road sign"
 authors:
     - Bithi Banik
-    - Fahim Irfan Alam
+    - admin
 
 date: "2014-07-10"
 doi: "10.1109/ICIEV.2014.6850852"

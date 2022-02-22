@@ -2,7 +2,7 @@
 title: "A multilayer network-supporting universal electronic cash transaction framework"
 authors:
     - Muhammad Iqbal Hasan Chowdhury
-    - Fahim Irfan Alam
+    - admin
 
 date: "2013-05-02"
 doi: "10.1109/ICCITechn.2012.6509731"

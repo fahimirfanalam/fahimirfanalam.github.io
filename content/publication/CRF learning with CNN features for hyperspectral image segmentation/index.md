@@ -1,7 +1,7 @@
 ---
 title: "CRF learning with CNN features for hyperspectral image segmentation"
 authors:
-    - Fahim Irfan Alam
+    - admin
     - Jun Zhou
     - Alan Wee-Chung Liew
     - Xiuping Jia

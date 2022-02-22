@@ -3,7 +3,7 @@ title: "Improved Sampling and Feature Selection to Support Extreme Gradient Boos
 authors:
     - Muhammad Sakib Khan Inan
     - Rubaiath E Ulfath
-    - Fahim Irfan Alam
+    - admin
     - Fateha Khanam Bappee
     - Rizwan Hasan
 

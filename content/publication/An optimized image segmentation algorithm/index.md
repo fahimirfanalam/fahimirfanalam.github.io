@@ -1,7 +1,7 @@
 ---
 title: "An optimized image segmentation algorithm"
 authors:
-    - Fahim Irfan Alam
+    - admin
     - Muhammad Iqbal Hasan Chowdhury
     - Md. Reza Rabbani
     - Fateha Khanam Bappee

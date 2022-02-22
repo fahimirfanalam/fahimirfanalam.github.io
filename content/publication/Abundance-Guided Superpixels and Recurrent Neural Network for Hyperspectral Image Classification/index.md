@@ -1,7 +1,7 @@
 ---
 title: "Abundance-Guided Superpixels and Recurrent Neural Network for Hyperspectral Image Classification"
 authors:
-    - Fahim Irfan Alam
+    - admin
     - Jun Zhou
     - Alan Wee-Chung Liew
 

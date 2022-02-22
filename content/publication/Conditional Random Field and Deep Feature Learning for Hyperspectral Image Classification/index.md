@@ -1,7 +1,7 @@
 ---
 title: "Conditional Random Field and Deep Feature Learning for Hyperspectral Image Classification"
 authors:
-    - Fahim Irfan Alam
+    - admin
     - Jun Zhou
     - Alan Wee-Chung Liew
     - Xiuping Jia

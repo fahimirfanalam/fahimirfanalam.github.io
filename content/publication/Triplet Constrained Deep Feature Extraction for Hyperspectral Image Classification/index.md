@@ -1,7 +1,7 @@
 ---
 title: "Triplet Constrained Deep Feature Extraction for Hyperspectral Image Classification"
 authors:
-    - Fahim Irfan Alam
+    - admin
     - Jun Zhou
     - Alan Wee-Chung Liew
     - Jun Jo

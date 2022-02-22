@@ -2,7 +2,7 @@
 title: "Learning-Based Object Segmentation Using Regional Spatial Templates and Visual Features"
 authors:
     - Iker Gondra
-    - Fahim Irfan Alam
+    - admin
 
 date: "2012-09-22"
 doi: "10.1007/978-3-642-33564-8_48"

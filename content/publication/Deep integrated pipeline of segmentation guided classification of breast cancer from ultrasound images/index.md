@@ -2,7 +2,7 @@
 title: "Deep integrated pipeline of segmentation guided classification of breast cancer from ultrasound images"
 authors:
     - Muhammad Sakib Khan Inan
-    - Fahim Irfan Alam
+    - admin
     - Rizwan Hasan
 
 date: "2022-02-17"

@@ -1,7 +1,7 @@
 ---
 title: "A Bayesian network-based tunable image segmentation algorithm for object recognition"
 authors:
-    - Fahim Irfan Alam
+    - admin
     - Iker Gondra
 
 date: "2012-02-13"

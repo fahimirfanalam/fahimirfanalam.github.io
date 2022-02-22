@@ -2,7 +2,7 @@
 title: "A probabilistic approach to support Self-Organizing Map (SOM) driven facial expression recognition"
 authors:
     - Muhammad Iqbal Hasan Chowdhury
-    - Fahim Irfan Alam
+    - admin
 
 date: "2015-04-02"
 doi: "10.1109/ICCITechn.2014.7073131"

@@ -1,7 +1,7 @@
 ---
 title: "Incorporating shape into spatially-aware adaptive object segmentation algorithm"
 authors:
-    - Fahim Irfan Alam
+    - admin
     - Iker Gondra
 
 date: "2012-06-27"

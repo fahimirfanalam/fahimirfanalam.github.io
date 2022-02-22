@@ -2,7 +2,7 @@
 title: "Learning spatial relations for object-specific segmentation using Bayesian network model"
 authors:
     - Iker Gondra
-    - Fahim Irfan Alam
+    - admin
 
 date: "2012-09-14"
 doi: "10.1007/s11760-012-0376-3"

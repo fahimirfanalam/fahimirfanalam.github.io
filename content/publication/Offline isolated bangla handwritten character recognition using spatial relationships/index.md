@@ -1,7 +1,7 @@
 ---
 title: "Offline isolated bangla handwritten character recognition using spatial relationships"
 authors:
-    - Fahim Irfan Alam
+    - admin
     - Bithi Banik
 
 date: "2013-08-01"

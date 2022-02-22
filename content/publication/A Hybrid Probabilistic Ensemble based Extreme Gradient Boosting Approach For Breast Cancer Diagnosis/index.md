@@ -3,7 +3,7 @@ title: "A Hybrid Probabilistic Ensemble based Extreme Gradient Boosting Approach
 authors:
     - Muhammad Sakib Khan Inan
     - Rizwan Hasan
-    - Fahim Irfan Alam
+    - admin
 
 date: "2021-03-17"
 doi: "10.1109/CCWC51732.2021.9376007"
