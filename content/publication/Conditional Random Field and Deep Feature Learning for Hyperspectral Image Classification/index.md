@@ -31,8 +31,9 @@ summary: Image classification is considered to be one of the critical tasks in h
 
 tags:
     - IEEE
+    - Journal
 
-featured: false
+featured: true
 
 # links:
 #     - name: Custom Link

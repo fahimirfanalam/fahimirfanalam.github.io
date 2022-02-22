@@ -27,8 +27,9 @@ summary: Semantically accurate segmentation of a particular Object Of Interest (
 
 tags:
     - ACM
+    - Journal
 
-featured: false
+featured: true
 
 # links:
 #     - name: Custom Link

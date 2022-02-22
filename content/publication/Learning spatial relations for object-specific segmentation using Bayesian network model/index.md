@@ -27,8 +27,9 @@ summary: In computer vision tasks such as, for example, object recognition, sema
 
 tags:
     - Springer
+    - Journal
 
-featured: false
+featured: true
 
 # links:
 #     - name: Custom Link

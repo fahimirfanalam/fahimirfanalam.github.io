@@ -28,8 +28,9 @@ summary: Breast cancer has become a symbol of tremendous concern in the modern w
 
 tags:
     - Elsevier
+    - Journal
 
-featured: false
+featured: true
 
 # links:
 #     - name: Custom Link

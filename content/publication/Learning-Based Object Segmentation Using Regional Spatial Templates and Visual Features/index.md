@@ -27,8 +27,9 @@ summary: Semantically accurate segmentation of an object of interest (OOI) is a 
 
 tags:
     - Springer
+    - Journal
 
-featured: false
+featured: true
 
 # links:
 #     - name: Custom Link
