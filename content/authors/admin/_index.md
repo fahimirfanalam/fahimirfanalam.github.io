@@ -14,7 +14,7 @@ role: "Associate Professor at [University of Chittagong](https://cu.ac.bd/) | Ar
 #       url: https://cu.ac.bd/
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Software Engineer (Full-time) at [ClearML](https://clear.ml/) | Microsoft Learn Student Ambassadors at [Microsoft](https://www.microsoft.com/)"
+bio: "Associate Professor at [University of Chittagong](https://cu.ac.bd/) | Artificial Intelligence & Computer Vision Scientist"
 
 # Interests to show in About widget
 interests:
