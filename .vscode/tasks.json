@@ -8,7 +8,6 @@
             "args": [
                 "up",
                 "liveserver",
-                "--force-recreate",
             ],
             "problemMatcher": []
         },
@@ -19,7 +18,6 @@
             "args": [
                 "up",
                 "deploy",
-                "--force-recreate",
             ],
             "problemMatcher": []
         },
