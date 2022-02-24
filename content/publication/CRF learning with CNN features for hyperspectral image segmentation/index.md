@@ -28,7 +28,12 @@ abstract: This paper proposes a method that uses both spectral and spatial infor
 summary: This paper proposes a method that uses both spectral and spatial information to segment remote sensing hyperspectral images. After a hyperspectral image is over-segmented into superpixels, a deep Convolutional Neural Network (CNN) is used to perform superpixel-level labelling. To further delineate objects from a hyperspectral scene, this paper attempts to combine the properties of CNN and Conditional Random Field (CRF). A mean-field approximation algorithm for CRF inference is used and formulated with Gaussian pairwise potentials as Recurrent Neural Network. This combined network is then plugged into the CNN which leads to a deep network that has robust characteristics of both CNN and CRF. Preliminary results suggest the usefulness of this framework to a promising extent.
 
 tags:
-    - IEEE
+    - CNN
+    - Superpixels
+    - Hyperspectral Image
+    - CRF
+    - RNN
+    - Remote Sensing
 
 featured: false
 

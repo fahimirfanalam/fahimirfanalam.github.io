@@ -28,11 +28,14 @@ summary: Breast cancer has become a symbol of tremendous concern in the modern w
 
 tags:
     - Breast Cancer
-    - Ultrasonography
+    - Ultrasonography Image
     - Superpixels
     - U-Net
     - Transfer Learning
     - VGG 16
+    - Image Segmentation
+    - Image Classification
+    - Medical Imaging
 
 featured: true
 

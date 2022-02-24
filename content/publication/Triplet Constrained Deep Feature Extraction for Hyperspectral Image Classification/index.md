@@ -31,7 +31,7 @@ summary: Convolutional neural networks (CNNs) have demonstrated significant perf
 tags:
     - CNN
     - Hyperspectral Image
-    - Classification
+    - Image Classification
     - Neural Network
     - 3D CNN
 

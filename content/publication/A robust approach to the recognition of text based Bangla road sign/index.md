@@ -5,7 +5,7 @@ authors:
     - admin
 
 date: "2014-07-10"
-doi: "10.1109/ICIEV.2014.6850852"
+# doi: "10.1109/ICIEV.2014.6850852"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2014-07-10"
@@ -26,7 +26,10 @@ abstract: Road sign recognition is considered to be one of the most fascinating 
 summary: Road sign recognition is considered to be one of the most fascinating and interesting field of research in intelligent vehicle and machine learning. Road signs are typically placed either by the roadside or above roads. They provide important information in order to make driving safer and easier. This paper proposes an algorithm that recognizes Bangla road sign with a better percentage. The algorithm starts with capture image from real video scene, text detection from images, character segmentation and recognition of characters through shape matrix. The constructed feature vectors for each individual Bangla road sign are learned into a neural network which later classifies new instance of Bangla road sign. The promising preliminary experimental results indicate a positive potential of our algorithm.
 
 tags:
-    - IEEE
+    - Image Segmentation
+    - Image Recognition
+    - Neural Network
+    - Machine Learning
 
 featured: false
 

@@ -26,11 +26,11 @@ abstract: Semantically accurate segmentation of an object of interest (OOI) is a
 summary: Semantically accurate segmentation of an object of interest (OOI) is a critical step in computer vision tasks. In order to bridge the gap between low-level visual features and high-level semantics, a more complete model of the OOI is needed. To this end, we revise the concept of directional spatial templates and introduce regional directional spatial templates as a means of including spatial relationships among OOI regions into the model. We present an object segmentation algorithm that learns a model which includes both visual and spatial information. Given a training set of images containing the OOI, each image is oversegmented into visually homogeneous regions. Next, Multiple Instance Learning identifies regions that are likely to be part of the OOI. For each pair of such regions and for each relationship, a regional template is formed. The computational cost of template generation is reduced by sampling the reference region with a pixel set that is descriptive of its shape. Experiments indicate that regional templates are an effective way of including spatial information into the model which in turn results in a very significant improvement in segmentation performance.
 
 tags:
-  - regional
-  - spatial
-  - visual
+  - Regional
+  - Spatial
+  - Visual
   - OOI
-  - segmentation
+  - Image Segmentation
 
 featured: false
 

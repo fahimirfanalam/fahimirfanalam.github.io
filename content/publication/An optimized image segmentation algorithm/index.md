@@ -28,7 +28,11 @@ abstract: In computer vision, semantically accurate segmentation of an object is
 summary: In computer vision, semantically accurate segmentation of an object is considered to be a critical problem. The different looking fragments of the same object impose the main challenge of producing a good segmentation. This leads to consider the high-level semantics of an image as well as the low-level visual features which require computationally intensive operations. This demands to optimize the computations as much as possible in order to reduce both computational and communication complexity. This paper proposes a framework which can be used to perform segmentation for a particular object by incorporating optimization in subsequent steps. The algorithm proposes an optimized K-means algorithm for image segmentation followed by balance calculations in multiple instance learning and topological relations with relative positions to identify OOI regions. Finally, a bayesian network is incorporated to contain the learned information about the model of the OOI. The preliminary experimental results suggest a significant drop in the complexity.
 
 tags:
-    - IEEE
+    - Computer Vision
+    - OOI
+    - K-Means
+    - Image Segmentation
+    - Bayesian Network
 
 featured: false
 

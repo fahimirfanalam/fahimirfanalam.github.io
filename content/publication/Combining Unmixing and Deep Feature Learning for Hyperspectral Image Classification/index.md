@@ -29,7 +29,10 @@ abstract: Image classification is one of the critical tasks in hyperspectral rem
 summary: Image classification is one of the critical tasks in hyperspectral remote sensing. In recent years, significant improvement have been achieved by various classification methods. However, mixed spectral responses from different ground materials still create confusions in complex scenes. In this regard, unmixing approaches are being successfully carried out to decompose mixed pixels into a collection of spectral signatures. Considering the usefulness of these techniques, we propose to utilize the unmixing results as an input to classifiers for better classification accuracy. We propose a novel band group based structure preserving nonnegative matrix factorization (NMF) method to estimate the individual spectral responses from different materials within different ranges of wavelengths. Then we train a convolutional neural network (CNN) with the unmixing results to generate powerful features and eventually classify the data. This method is evaluated on a new dataset and compared with several state-of-the-art models, which shows the promising potential of our method.
 
 tags:
-    - IEEE
+    - CNN
+    - Remote Sensing
+    - Hyperspectral Image
+    - Image Classification
 
 featured: false
 

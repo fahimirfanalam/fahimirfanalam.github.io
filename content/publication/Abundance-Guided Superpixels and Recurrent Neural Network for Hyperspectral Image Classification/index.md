@@ -27,7 +27,10 @@ abstract: Mixed spectral responses from different ground materials often create 
 summary: Mixed spectral responses from different ground materials often create confusions in complex remote sensing scenes and restrict classification performance. In this regard, unmixing approaches are being successfully carried out to decompose mixed pixels into a collection of spectral signatures. In this paper, we propose a method to integrate unmixing into a deep feature learning model in order to classify hyperspectral data. We propose to generate superpixels from the abundance estimations of the underlying materials of the image obtained from an unsupervised endmember extraction algorithm called vertex component analysis (VCA). The mean abundances of the superpixels are then used as features for a deep classifier. Our proposed deep model, formulated as a joint convolutional neural network and recurrent neural network, receives significant spectral-spatial information in the data to produce better and powerful features and achieve improved classification performance than several alternative methods.
 
 tags:
-    - IEEE
+    - Vertex Component Analysis
+    - CNN
+    - Remote Sensing
+    - Hyperspectral Image
 
 featured: false
 

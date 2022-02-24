@@ -28,6 +28,8 @@ summary: Semantically accurate segmentation of a particular Object Of Interest (
 tags:
     - ANOVA
     - Object Segmentation
+    - OOI
+    - Computer Vision
 
 featured: true
 
