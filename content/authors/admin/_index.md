@@ -45,7 +45,7 @@ education:
 social:
     - icon: envelope
       icon_pack: fas
-      link: "mailto:rizwan.hasan486@gmail.com"
+      link: "mailto:fahim@cu.ac.bd"
       display:
           header: true
       label: Contact me through email
@@ -59,7 +59,7 @@ social:
 
     - icon: graduation-cap
       icon_pack: fas
-      link: https://scholar.google.com/citations?user=laCF688AAAAJ
+      link: https://scholar.google.com/citations?user=QYq8-LUAAAAJ&hl=en
 
     # - icon: github
     #   icon_pack: fab
@@ -70,18 +70,18 @@ social:
 
     - icon: linkedin
       icon_pack: fab
-      link: https://www.linkedin.com/in/rizwan486/
+      link: https://www.linkedin.com/in/fahim-irfan-alam-9553b1130/
       display:
           header: true
-      label: Connect me on Linkedin
+      label: Connect me on LinkedIn
 
     # - icon: orcid
     #   icon_pack: fab
-    #   link: https://orcid.org/0000-0002-6766-0295
+    #   link:
 
     # - icon: researchgate
     #   icon_pack: fab
-    #   link: https://www.researchgate.net/profile/Rizwan-Hasan
+    #   link:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "rizwan.hasan486@gmail.com"
