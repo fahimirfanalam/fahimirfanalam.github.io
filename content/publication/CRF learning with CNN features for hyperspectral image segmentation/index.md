@@ -7,7 +7,7 @@ authors:
     - Xiuping Jia
 
 date: "2016-11-03"
-doi: "10.1109/IGARSS.2016.7730798"
+# doi: "10.1109/IGARSS.2016.7730798"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2016-11-03"
@@ -20,7 +20,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: 2016 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)
-publication_short: In *IEEE*
+publication_short: "*2016 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*"
 
 abstract: This paper proposes a method that uses both spectral and spatial information to segment remote sensing hyperspectral images. After a hyperspectral image is over-segmented into superpixels, a deep Convolutional Neural Network (CNN) is used to perform superpixel-level labelling. To further delineate objects from a hyperspectral scene, this paper attempts to combine the properties of CNN and Conditional Random Field (CRF). A mean-field approximation algorithm for CRF inference is used and formulated with Gaussian pairwise potentials as Recurrent Neural Network. This combined network is then plugged into the CNN which leads to a deep network that has robust characteristics of both CNN and CRF. Preliminary results suggest the usefulness of this framework to a promising extent.
 
@@ -66,7 +66,7 @@ url_source: "https://ieeexplore.ieee.org/document/7730798"
 # slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -74,4 +74,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->

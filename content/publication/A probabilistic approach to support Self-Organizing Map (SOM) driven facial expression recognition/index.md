@@ -18,7 +18,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: 2014 17th International Conference on Computer and Information Technology (ICCIT)
-publication_short: In *IEEE*
+publication_short: "*2014 17th International Conference on Computer and Information Technology (ICCIT)*"
 
 abstract: Automated understanding of human facial expression is an active and concerning research topic. It is expected that in near future full-fledged understanding of human facial expression will enable machines to behave more intelligently. In this paper we proposed a system for automatic facial expression recognition. A consistent combination of Self-Organizing Map (SOM), Learning Vector Quantization (LVQ) and Naïve Bayes classifier is developed to recognize facial expression from Cohn Kanade (CK) and Japanese Female Facial Expression (JAFFE) database. Satisfactory experimental results yield the possibility of using this system in real world applications. Proposed methodology shows an accuracy rate of 81.5% for CK dataset and 87.2% accuracy rate for JAFFE dataset.
 
@@ -64,7 +64,7 @@ url_source: "https://ieeexplore.ieee.org/document/7073131"
 # slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -72,4 +72,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->

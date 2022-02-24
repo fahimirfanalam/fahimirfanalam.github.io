@@ -6,7 +6,7 @@ authors:
     - Alan Wee-Chung Liew
 
 date: "2020-01-02"
-doi: "10.1109/DICTA47822.2019.8946060"
+# doi: "10.1109/DICTA47822.2019.8946060"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-01-02"
@@ -19,7 +19,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "2019 Digital Image Computing: Techniques and Applications (DICTA)"
-publication_short: In *IEEE*
+publication_short: "*2019 Digital Image Computing: Techniques and Applications (DICTA)*"
 
 abstract: Mixed spectral responses from different ground materials often create confusions in complex remote sensing scenes and restrict classification performance. In this regard, unmixing approaches are being successfully carried out to decompose mixed pixels into a collection of spectral signatures. In this paper, we propose a method to integrate unmixing into a deep feature learning model in order to classify hyperspectral data. We propose to generate superpixels from the abundance estimations of the underlying materials of the image obtained from an unsupervised endmember extraction algorithm called vertex component analysis (VCA). The mean abundances of the superpixels are then used as features for a deep classifier. Our proposed deep model, formulated as a joint convolutional neural network and recurrent neural network, receives significant spectral-spatial information in the data to produce better and powerful features and achieve improved classification performance than several alternative methods.
 
@@ -65,7 +65,7 @@ url_source: "https://ieeexplore.ieee.org/document/8946060"
 # slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -73,4 +73,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->

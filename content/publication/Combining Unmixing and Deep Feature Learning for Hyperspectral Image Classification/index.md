@@ -8,7 +8,7 @@ authors:
     - Yongsheng Gao
 
 date: "2017-12-21"
-doi: "10.1109/DICTA.2017.8227419"
+# doi: "10.1109/DICTA.2017.8227419"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-12-21"
@@ -21,7 +21,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "2017 International Conference on Digital Image Computing: Techniques and Applications (DICTA)"
-publication_short: In *IEEE*
+publication_short: "*2017 International Conference on Digital Image Computing: Techniques and Applications (DICTA)*"
 
 abstract: Image classification is one of the critical tasks in hyperspectral remote sensing. In recent years, significant improvement have been achieved by various classification methods. However, mixed spectral responses from different ground materials still create confusions in complex scenes. In this regard, unmixing approaches are being successfully carried out to decompose mixed pixels into a collection of spectral signatures. Considering the usefulness of these techniques, we propose to utilize the unmixing results as an input to classifiers for better classification accuracy. We propose a novel band group based structure preserving nonnegative matrix factorization (NMF) method to estimate the individual spectral responses from different materials within different ranges of wavelengths. Then we train a convolutional neural network (CNN) with the unmixing results to generate powerful features and eventually classify the data. This method is evaluated on a new dataset and compared with several state-of-the-art models, which shows the promising potential of our method.
 
@@ -67,7 +67,7 @@ url_source: "https://ieeexplore.ieee.org/document/8227419"
 # slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -75,4 +75,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->

@@ -5,7 +5,7 @@ authors:
     - admin
 
 date: "2012-09-14"
-doi: "10.1007/s11760-012-0376-3"
+# doi: "10.1007/s11760-012-0376-3"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2012-09-14"
@@ -18,7 +18,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: Signal, Image and Video Processing (Springer)
-publication_short: In *Springer*
+publication_short: "*Signal, Image and Video Processing, Springer Nature*"
 
 abstract: In computer vision tasks such as, for example, object recognition, semantically accurate segmentation of a particular object of interest (OOI) is a critical step. Due to the OOI consisting of visually different fragments, traditional segmentation algorithms that are based on the identification of homogeneous regions usually do not perform well. In order to narrow this gap between low-level visual features and high-level semantics, some recent methods employ machine learning to generate more accurate models of the OOI. The main contribution of this paper is the inclusion of spatial relationships among the OOI fragments into the model. For this purpose, we employ Bayesian networks as a probabilistic approach for learning the spatial relationships which, in turn, becomes evidence that is used for the process of segmenting future instances of the OOI. The algorithm presented in this paper also uses multiple instance learning to obtain prototypical descriptions of each fragment of the OOI based on low-level visual features. The experimental results on both artificial and real image datasets indicate that the addition of spatial relationships improves segmentation performance.
 
@@ -26,8 +26,9 @@ abstract: In computer vision tasks such as, for example, object recognition, sem
 summary: In computer vision tasks such as, for example, object recognition, semantically accurate segmentation of a particular object of interest (OOI) is a critical step. Due to the OOI consisting of visually different fragments, traditional segmentation algorithms that are based on the identification of homogeneous regions usually do not perform well. In order to narrow this gap between low-level visual features and high-level semantics, some recent methods employ machine learning to generate more accurate models of the OOI. The main contribution of this paper is the inclusion of spatial relationships among the OOI fragments into the model. For this purpose, we employ Bayesian networks as a probabilistic approach for learning the spatial relationships which, in turn, becomes evidence that is used for the process of segmenting future instances of the OOI. The algorithm presented in this paper also uses multiple instance learning to obtain prototypical descriptions of each fragment of the OOI based on low-level visual features. The experimental results on both artificial and real image datasets indicate that the addition of spatial relationships improves segmentation performance.
 
 tags:
-    - Springer
-    - Journal
+    - Bayesian Network
+    - Image Processing
+    - Probabilistic
 
 featured: true
 
@@ -65,7 +66,7 @@ url_source: "https://link.springer.com/article/10.1007/s11760-012-0376-3"
 # slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -73,4 +74,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->

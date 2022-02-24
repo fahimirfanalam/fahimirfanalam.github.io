@@ -18,7 +18,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: 2014 International Conference on Informatics, Electronics & Vision (ICIEV)
-publication_short: In *IEEE*
+publication_short: "*2014 International Conference on Informatics, Electronics & Vision (ICIEV)*"
 
 abstract: Road sign recognition is considered to be one of the most fascinating and interesting field of research in intelligent vehicle and machine learning. Road signs are typically placed either by the roadside or above roads. They provide important information in order to make driving safer and easier. This paper proposes an algorithm that recognizes Bangla road sign with a better percentage. The algorithm starts with capture image from real video scene, text detection from images, character segmentation and recognition of characters through shape matrix. The constructed feature vectors for each individual Bangla road sign are learned into a neural network which later classifies new instance of Bangla road sign. The promising preliminary experimental results indicate a positive potential of our algorithm.
 
@@ -64,12 +64,12 @@ url_source: "https://ieeexplore.ieee.org/document/6850852"
 # slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
 {{% callout note %}}
 Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
+{{% /callout %}} -->
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+<!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->

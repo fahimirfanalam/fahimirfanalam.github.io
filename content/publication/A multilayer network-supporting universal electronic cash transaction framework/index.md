@@ -18,7 +18,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: 2012 15th International Conference on Computer and Information Technology (ICCIT)
-publication_short: In *IEEE*
+publication_short: "*2012 15th International Conference on Computer and Information Technology (ICCIT)"
 
 abstract: Bangladesh has achieved a tremendous growth in the telecommunication sector recently in spite of various deficiencies regarding socio-economic infrastructure. Following a number of years of huge development in this sector, each and every parts of Bangladesh is now under cellular coverage and the teledensity is expected to reach at maximum satisfactory level soon. This success motivates us towards a more reliable & transparent economic infrastructure through the use of cellular services and intelligent software systems. This paper proposes multilayer network-supported framework which completely eliminates the need and use of paper notes for all kinds of economic transactions. However, the proposed framework is not a threat at all to the present financial institutions and their fundamental mechanisms. Rather, it would be more transparent and free of corruptions as reliable and efficient monitoring of transactions will be possible by respective authorities. This proposed framework will handle all kinds of transactions by electronic means e.g. Push Pull services offering Short Message Service(SMS), road-side booths containing a web interface. Under this distributed system, each and every entity of the entire economic infrastructure will makes it flexible, robust, secure and lawful. The satisfactory experimental results on a small case scenario supports its potential possibilities in real-world implementation.
 
@@ -64,7 +64,7 @@ url_source: "https://ieeexplore.ieee.org/document/6509731"
 # slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -72,4 +72,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->

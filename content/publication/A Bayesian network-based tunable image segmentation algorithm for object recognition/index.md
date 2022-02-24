@@ -18,12 +18,12 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: 2011 IEEE International Symposium on Signal Processing and Information Technology (ISSPIT)
-publication_short: In *IEEE*
+publication_short: "*2011 IEEE International Symposium on Signal Processing and Information Technology (ISSPIT)*"
 
 abstract: We present a Bayesian network-based tunable image segmentation algorithm that can be used to segment a particular object of interest (OOI). In tasks such as object recognition, semantically accurate segmentation of the OOI is a critical step. Due to the OOI consisting of different-looking fragments, traditional image segmentation algorithms that are based on the identification of homogeneous regions tend to oversegment. The algorithm presented in this paper uses Multiple Instance Learning to learn prototypical representations of each fragment of the OOI and a Bayesian network to learn the spatial relationships that exist among those fragments. The Bayesian network, as a probabilistic graphical model, in turn becomes evidence that is used for the process of semantically accurate segmentation of future instances of the OOI. The key contribution of this paper is the inclusion of domain-specific information in terms of spatial relationships as an input to a conventional Bayesian network structure learning algorithm. Preliminary results indicate that the proposed method improves segmentation performance.
 
 # Summary. An optional shortened abstract.
-summary: BWe present a Bayesian network-based tunable image segmentation algorithm that can be used to segment a particular object of interest (OOI). In tasks such as object recognition, semantically accurate segmentation of the OOI is a critical step. Due to the OOI consisting of different-looking fragments, traditional image segmentation algorithms that are based on the identification of homogeneous regions tend to oversegment. The algorithm presented in this paper uses Multiple Instance Learning to learn prototypical representations of each fragment of the OOI and a Bayesian network to learn the spatial relationships that exist among those fragments. The Bayesian network, as a probabilistic graphical model, in turn becomes evidence that is used for the process of semantically accurate segmentation of future instances of the OOI. The key contribution of this paper is the inclusion of domain-specific information in terms of spatial relationships as an input to a conventional Bayesian network structure learning algorithm. Preliminary results indicate that the proposed method improves segmentation performance.
+summary: We present a Bayesian network-based tunable image segmentation algorithm that can be used to segment a particular object of interest (OOI). In tasks such as object recognition, semantically accurate segmentation of the OOI is a critical step. Due to the OOI consisting of different-looking fragments, traditional image segmentation algorithms that are based on the identification of homogeneous regions tend to oversegment. The algorithm presented in this paper uses Multiple Instance Learning to learn prototypical representations of each fragment of the OOI and a Bayesian network to learn the spatial relationships that exist among those fragments. The Bayesian network, as a probabilistic graphical model, in turn becomes evidence that is used for the process of semantically accurate segmentation of future instances of the OOI. The key contribution of this paper is the inclusion of domain-specific information in terms of spatial relationships as an input to a conventional Bayesian network structure learning algorithm. Preliminary results indicate that the proposed method improves segmentation performance.
 
 tags:
     - IEEE
@@ -64,6 +64,15 @@ url_source: "https://ieeexplore.ieee.org/document/6151528"
 # slides: example
 ---
 
+<!-- {{% callout note %}}
+Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
+{{% callout note %}}
+Create your slides in Markdown - click the _Slides_ button to check out the example.
+{{% /callout %}}
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
 {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
@@ -72,4 +81,31 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
+{{% callout note %}}
+Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
+{{% callout note %}}
+Create your slides in Markdown - click the _Slides_ button to check out the example.
+{{% /callout %}}
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
+{{% callout note %}}
+Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
+{{% callout note %}}
+Create your slides in Markdown - click the _Slides_ button to check out the example.
+{{% /callout %}}
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
+{{% callout note %}}
+Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
+{{% callout note %}}
+Create your slides in Markdown - click the _Slides_ button to check out the example.
+{{% /callout %}}
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
