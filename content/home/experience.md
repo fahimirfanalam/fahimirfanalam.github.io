@@ -28,7 +28,7 @@ experience:
       company_logo: ctg_university
       location: Bangladesh
       date_start: "2008-02-01"
-      date_end: "Present"
+      date_end: false
       description: |2-
         - Taught several core courses of Computer Science, such as Programming with C/C++ and Java, Neural Networks /Deep Learning, Data Communication.
         - Responsible for conducting lectures, examinations, and grading.
