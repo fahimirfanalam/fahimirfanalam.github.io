@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Fahim Irfan Alam # Website name
-baseurl: 'https://rizwan-hasan.github.io/' # Website URL
+baseurl: 'https://fahimirfanalam.github.io/' # Website URL
 copyright: 'All rights reserved © 2022 Fahim Irfan Alam' # Footer text, e.g. '© {year} Me'
 
 ############################

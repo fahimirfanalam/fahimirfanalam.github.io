@@ -6,7 +6,7 @@ title: Fahim Irfan Alam
 superuser: true
 
 # Role/position/tagline
-role: "Lives in Sydney, Australia <br> <br/> Associate Professor of Computer Science"
+role: "Associate Professor of Computer Science"
 
 # Organizations/Affiliations to show in About widget
 organizations:
