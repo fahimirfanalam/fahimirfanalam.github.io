@@ -22,16 +22,16 @@ email: fahim@cu.ac.bd
 phone: ''
 
 address:
-  street: 'Agrabad'
-  city: 'Chittagong'
+  street: '323, Forest Road, Hurstville'
+  city: 'Sydney'
   region: false
-  postcode: '4100'
-  country: 'Bangladesh'
-  country_code: 'BD'
+  postcode: 2220
+  country: 'Australia'
+  country_code: 'AU'
 
 coordinates:
-  latitude: '22.3237417'
-  longitude: '91.8091193'
+  latitude: '-33.96392'
+  longitude: '151.094'
 
 directions: ''
 
