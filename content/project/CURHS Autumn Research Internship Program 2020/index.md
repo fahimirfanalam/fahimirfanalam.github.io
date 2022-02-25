@@ -1,7 +1,7 @@
 ---
 title: "Exploring Segmentation and Classification to Facilitate Effective Detection of Breast Cancer from Ultrasound Images"
 
-summary: "Under the Chittagong University Research and Higher Studies (CURHS) Autumn Research Internship Program 2020, I supervised this project themed on Artificial Intelligence in Medical Imaging."
+summary: "Artificial Intelligence in Medical Image Segmentation and Classification"
 
 draft: false
 
@@ -14,7 +14,7 @@ tags:
     - Deep Learning in Medical Imaging
     - AI for Healthcare
     - Computational Biology
-    - Bio-informatic
+    - Bio-informatics
 
 date: "2020-10-01"
 
