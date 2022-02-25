@@ -6,7 +6,7 @@ title: Fahim Irfan Alam
 superuser: true
 
 # Role/position/tagline
-role: "Lives in *Sydney, Australia*<br /><br />Associate Professor of Computer Science at [University of Chittagong](https://cu.ac.bd/)"
+role: "Associate Professor of Computer Science at [University of Chittagong](https://cu.ac.bd/)"
 
 # Organizations/Affiliations to show in About widget
 # organizations:
