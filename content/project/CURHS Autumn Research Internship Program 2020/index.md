@@ -1,6 +1,11 @@
 ---
-title: CURHS Autumn Research Internship Program 2020
-summary: "Under the Chittagong University Research and Higher Studies (CURHS) Autumn Research Internship Program 2020, I supervised a project titled \"Exploring Segmentation and 3D Reconstruction to Facilitate Effective Detection of Breast Cancer from MRI Images\". The project theme was Computational biology & Bioinformatics as the area is current significantly relevant and demanding in the machine learning community. In this project, I supervised two students who developed their individual algorithms in breast cancer diagnosis from MRI images. Both contributions are now under review for publication. One of the contributions had been deemed as significant and has been submitted to Computers in Biology and Medicine Journal which is one of the most reputed journal in Mathematical & Computational Biology. The first round of revisions have been completed and we are currently waiting for the final decision to arrive."
+title: Exploring Segmentation and Classification to Facilitate Effective Detection of Breast Cancer from Ultrasound Images
+summary: "Under the Chittagong University Research and Higher Studies (CURHS) Autumn Research Internship Program 2020, I supervised a project titled
+\"Exploring Segmentation and Classification to Facilitate Effective Detection of Breast Cancer from Ultrasound Images\". The project theme was Deep
+Learning in Computational biology & Bioinformatics as the area is current significantly relevant and demanding in the machine learning community.
+In this project, I supervised two students who developed their individual algorithms in breast cancer diagnosis from Ultrasound images. Both
+contributions are now under review for publication. One of the contributions had been deemed as significant and has been accepted in the Journal
+named “Biomedical Signal Processing and Control” which is one of the most reputed journals in Mathematical & Computational Biology in Elsevier."
 
 draft: false
 

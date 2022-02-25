@@ -9,7 +9,7 @@ authors:
     - Yongsheng Gao
 
 date: "2018-09-20"
-doi: "10.1109/TGRS.2018.2867679"
+# doi: "10.1109/TGRS.2018.2867679"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-09-20"
@@ -21,8 +21,8 @@ publishDate: "2018-09-20"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE Transactions on Geoscience and Remote Sensing 
-publication_short: In *IEEE*
+publication: IEEE Transactions on Geoscience and Remote Sensing
+publication_short: "*IEEE Transactions on Geoscience and Remote Sensing*"
 
 abstract: Image classification is considered to be one of the critical tasks in hyperspectral remote sensing image processing. Recently, a convolutional neural network (CNN) has established itself as a powerful model in classification by demonstrating excellent performances. The use of a graphical model such as a conditional random field (CRF) contributes further in capturing contextual information and thus improving the classification performance. In this paper, we propose a method to classify hyperspectral images by considering both spectral and spatial information via a combined framework consisting of CNN and CRF. We use multiple spectral band groups to learn deep features using CNN, and then formulate deep CRF with CNN-based unary and pairwise potential functions to effectively extract the semantic correlations between patches consisting of 3-D data cubes. Furthermore, we introduce a deep deconvolution network that improves the final classification performance. We also introduced a new data set and experimented our proposed method on it along with several widely adopted benchmark data sets to evaluate the effectiveness of our method. By comparing our results with those from several state-of-the-art models, we show the promising potential of our method.
 
@@ -30,8 +30,11 @@ abstract: Image classification is considered to be one of the critical tasks in 
 summary: Image classification is considered to be one of the critical tasks in hyperspectral remote sensing image processing. Recently, a convolutional neural network (CNN) has established itself as a powerful model in classification by demonstrating excellent performances. The use of a graphical model such as a conditional random field (CRF) contributes further in capturing contextual information and thus improving the classification performance. In this paper, we propose a method to classify hyperspectral images by considering both spectral and spatial information via a combined framework consisting of CNN and CRF. We use multiple spectral band groups to learn deep features using CNN, and then formulate deep CRF with CNN-based unary and pairwise potential functions to effectively extract the semantic correlations between patches consisting of 3-D data cubes. Furthermore, we introduce a deep deconvolution network that improves the final classification performance. We also introduced a new data set and experimented our proposed method on it along with several widely adopted benchmark data sets to evaluate the effectiveness of our method. By comparing our results with those from several state-of-the-art models, we show the promising potential of our method.
 
 tags:
-    - IEEE
-    - Journal
+    - CNN
+    - CRF
+    - Image Classification
+    - Hyperspectral Image
+    - 3D Image Data
 
 featured: true
 
@@ -69,7 +72,7 @@ url_source: "https://ieeexplore.ieee.org/abstract/document/8469063"
 # slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -77,4 +80,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->

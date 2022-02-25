@@ -5,7 +5,7 @@ authors:
     - Bithi Banik
 
 date: "2013-08-01"
-doi: "10.1109/ICIEV.2013.6572622"
+# doi: "10.1109/ICIEV.2013.6572622"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2013-08-01"
@@ -18,7 +18,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: 2013 International Conference on Informatics, Electronics and Vision (ICIEV)
-publication_short: In *IEEE*
+publication_short: "*2013 International Conference on Informatics, Electronics and Vision (ICIEV)"
 
 abstract: Handwritten character recognition is considered to be one of the most fascinating and interesting field of research in image processing and pattern recognition. Due to the various challenges associated with it, intensive research works are currently in progress for constructing algorithms that produce better recognition accuracy. This paper proposes an algorithm that recognizes offline isolated Bangla handwritten characters using spatial relationships between any foreground pixels with the background pixels. The algorithm starts with eliminating unwanted noises from scanned images, performing normalization of size and gradually progress toward constructing feature vector representation for the characters using zoning along with spatial relationships in terms of directional relationships. The constructed feature vectors for each individual Bangla character are learned into a neural network which later classifies new instance of Bangla character. The promising preliminary experimental results indicate a positive potential of our algorithm.
 
@@ -26,7 +26,10 @@ abstract: Handwritten character recognition is considered to be one of the most 
 summary: Handwritten character recognition is considered to be one of the most fascinating and interesting field of research in image processing and pattern recognition. Due to the various challenges associated with it, intensive research works are currently in progress for constructing algorithms that produce better recognition accuracy. This paper proposes an algorithm that recognizes offline isolated Bangla handwritten characters using spatial relationships between any foreground pixels with the background pixels. The algorithm starts with eliminating unwanted noises from scanned images, performing normalization of size and gradually progress toward constructing feature vector representation for the characters using zoning along with spatial relationships in terms of directional relationships. The constructed feature vectors for each individual Bangla character are learned into a neural network which later classifies new instance of Bangla character. The promising preliminary experimental results indicate a positive potential of our algorithm.
 
 tags:
-    - IEEE
+    - Bangla
+    - Character Recognition
+    - Image Processing
+    - Pattern Recognition
 
 featured: false
 
@@ -64,7 +67,7 @@ url_source: "https://ieeexplore.ieee.org/document/6572622"
 # slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -72,4 +75,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->

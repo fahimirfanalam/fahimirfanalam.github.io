@@ -5,7 +5,7 @@ authors:
     - Iker Gondra
 
 date: "2012-06-27"
-doi: "10.1145/2347583.2347594"
+# doi: "10.1145/2347583.2347594"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2012-06-27"
@@ -18,7 +18,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: Fifth International C* Conference on Computer Science and Software Engineering
-publication_short: In *ACM*
+publication_short: "*Fifth International C* Conference on Computer Science and Software Engineering*, ACM"
 
 abstract: Semantically accurate segmentation of a particular Object Of Interest (OOI) in an image is an important but challenging step in computer vision tasks. Our recently proposed object-specific segmentation algorithm learns a model of the OOI which includes information on both the visual appearance of and the spatial relationships among the OOI components. However, its performance heavily depends on the assumption that the visual appearance variability among OOI instances is low. We present an extension to our algorithm that relaxes this assumption by incorporating shape information into the OOI model. Experimental results and an ANOVA-based statistical test confirm that the incorporation of shape has a highly significant positive effect on segmentation performance.
 
@@ -26,8 +26,10 @@ abstract: Semantically accurate segmentation of a particular Object Of Interest 
 summary: Semantically accurate segmentation of a particular Object Of Interest (OOI) in an image is an important but challenging step in computer vision tasks. Our recently proposed object-specific segmentation algorithm learns a model of the OOI which includes information on both the visual appearance of and the spatial relationships among the OOI components. However, its performance heavily depends on the assumption that the visual appearance variability among OOI instances is low. We present an extension to our algorithm that relaxes this assumption by incorporating shape information into the OOI model. Experimental results and an ANOVA-based statistical test confirm that the incorporation of shape has a highly significant positive effect on segmentation performance.
 
 tags:
-    - ACM
-    - Journal
+    - ANOVA
+    - Object Segmentation
+    - OOI
+    - Computer Vision
 
 featured: true
 
@@ -65,7 +67,7 @@ url_source: "http://dl.acm.org/citation.cfm?id=2347594"
 # slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -73,4 +75,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->

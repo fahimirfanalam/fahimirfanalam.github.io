@@ -7,7 +7,7 @@ authors:
     - Fateha Khanam Bappee
 
 date: "2013-08-01"
-doi: "10.1109/ICIEV.2013.6572644"
+# doi: "10.1109/ICIEV.2013.6572644"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2013-08-01"
@@ -20,7 +20,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: 2013 International Conference on Informatics, Electronics and Vision (ICIEV)
-publication_short: In *IEEE*
+publication_short: "*2013 International Conference on Informatics, Electronics and Vision (ICIEV)*"
 
 abstract: In computer vision, semantically accurate segmentation of an object is considered to be a critical problem. The different looking fragments of the same object impose the main challenge of producing a good segmentation. This leads to consider the high-level semantics of an image as well as the low-level visual features which require computationally intensive operations. This demands to optimize the computations as much as possible in order to reduce both computational and communication complexity. This paper proposes a framework which can be used to perform segmentation for a particular object by incorporating optimization in subsequent steps. The algorithm proposes an optimized K-means algorithm for image segmentation followed by balance calculations in multiple instance learning and topological relations with relative positions to identify OOI regions. Finally, a bayesian network is incorporated to contain the learned information about the model of the OOI. The preliminary experimental results suggest a significant drop in the complexity.
 
@@ -28,7 +28,11 @@ abstract: In computer vision, semantically accurate segmentation of an object is
 summary: In computer vision, semantically accurate segmentation of an object is considered to be a critical problem. The different looking fragments of the same object impose the main challenge of producing a good segmentation. This leads to consider the high-level semantics of an image as well as the low-level visual features which require computationally intensive operations. This demands to optimize the computations as much as possible in order to reduce both computational and communication complexity. This paper proposes a framework which can be used to perform segmentation for a particular object by incorporating optimization in subsequent steps. The algorithm proposes an optimized K-means algorithm for image segmentation followed by balance calculations in multiple instance learning and topological relations with relative positions to identify OOI regions. Finally, a bayesian network is incorporated to contain the learned information about the model of the OOI. The preliminary experimental results suggest a significant drop in the complexity.
 
 tags:
-    - IEEE
+    - Computer Vision
+    - OOI
+    - K-Means
+    - Image Segmentation
+    - Bayesian Network
 
 featured: false
 
@@ -66,7 +70,7 @@ url_source: "https://ieeexplore.ieee.org/document/6572644"
 # slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -74,4 +78,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
