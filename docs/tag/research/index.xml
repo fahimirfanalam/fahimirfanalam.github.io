@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Research | Fahim Irfan Alam</title><link>https://fahimirfanalam.github.io/tag/research/</link><atom:link href="https://fahimirfanalam.github.io/tag/research/index.xml" rel="self" type="application/rss+xml"/><description>Research</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>All rights reserved © 2022 Fahim Irfan Alam</copyright><lastBuildDate>Sat, 27 Mar 2021 19:00:00 +0000</lastBuildDate><image><url>https://fahimirfanalam.github.io/media/icon_hu2924c70c90693baf4872f9ac62351d24_153715_512x512_fill_lanczos_center_3.png</url><title>Research</title><link>https://fahimirfanalam.github.io/tag/research/</link></image><item><title>Learn From The Expert: How To Start A Career In Research As An Undergraduate Student</title><link>https://fahimirfanalam.github.io/talk/learn-from-the-expert-how-to-start-a-career-in-research-as-an-undergraduate-student/</link><pubDate>Sat, 27 Mar 2021 19:00:00 +0000</pubDate><guid>https://fahimirfanalam.github.io/talk/learn-from-the-expert-how-to-start-a-career-in-research-as-an-undergraduate-student/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+Slides can be added in a few ways:
+- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --></description></item></channel></rss>
