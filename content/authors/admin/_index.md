@@ -27,15 +27,15 @@ interests:
 education:
     courses:
         - course: Ph.D. in Computer Science
-          institution: Griffith University
+          institution: Griffith University, Australia
           year: 2019
 
         - course: M.Sc. in Computer Science
-          institution: St. Francis Xavier University
+          institution: St. Francis Xavier University, Canada
           year: 2011
 
         - course: B.Sc. in Computer Science
-          institution: Chittagong University
+          institution: Chittagong University, Bangladesh
           year: 2007
 
 # Social/Academic Networking
