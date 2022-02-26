@@ -4,6 +4,8 @@ title: Example Talk
 event: Wowchemy Conference
 event_url: https://example.org
 
+draft: true
+
 location: Wowchemy HQ
 address:
     street: 450 Serra Mall
